@@ -2,6 +2,10 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "12.14.1",
+    "npm": "6.13.4"
+  },
   "dependencies": {
     "@material-ui/core": "^4.11.1",
     "@react-aria/i18n": "^3.3.2",
